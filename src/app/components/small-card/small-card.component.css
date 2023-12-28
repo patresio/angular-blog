@@ -1,0 +1,36 @@
+.small__card__container {
+    width: 62rem;
+    height: 10rem;
+    padding: 1rem;
+}
+
+.small__card__content__container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+
+.small__card__content {
+    height: 8rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.small__card__image > img {
+    height: 8rem;
+    width: 12rem;
+    min-width: 12rem;
+    margin-right: 1rem;
+}
+
+.small__card__author > span {
+    font-size: 0.7rem;
+    color: #777;
+    font-weight: 200;
+}
+
+.small__card__title {
+    height: 100%;
+    display: flex;
+    margin-top: 1rem;
+}

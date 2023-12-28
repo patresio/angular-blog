@@ -1,0 +1,17 @@
+.container__articles {
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.articles__others {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.articles__main {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
