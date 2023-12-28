@@ -1,0 +1,35 @@
+.content__container__main {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-top: 2rem;
+}
+
+.container__content {
+    width: 88rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content__cover > img {
+    width: 35rem;
+    min-width: 35rem;
+    height: 20rem;
+    border-radius: 0.5rem;
+}
+
+.content__description > p {
+    margin-top: 1.5rem;
+    color: rgb(137, 135, 135);
+}
+.content__title > h1 {
+    margin-bottom: 1rem;
+}
+.content__title > span {
+    font-size: 0.725rem;
+    margin-bottom: 1rem;
+    font-weight: 200;
+}
