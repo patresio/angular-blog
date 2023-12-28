@@ -1,0 +1,23 @@
+.big__card__container{
+    border: solid white 2px;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+    width: 29.625rem;
+    height: 34rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.big__card__title > h1 {
+    font-size: 1.7rem;
+    margin-top: 1.2rem;
+    font-weight: 700;
+}
+
+.big__card__content > p {
+    margin-top: 1rem;
+    color: grey;
+}
