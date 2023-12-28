@@ -39,3 +39,8 @@
 .big__card__content > p > a{
     color: grey;
 }
+
+.big__card__content > p {
+    font-size: 0.9rem;
+    font-weight: 200;
+}

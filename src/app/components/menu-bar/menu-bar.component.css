@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: flex-end;
     padding-bottom: 1rem;
-    width: 60rem;
+    width: 68rem;
 }
 
 .menu__bar__links > ul{
@@ -33,6 +33,10 @@
     align-items: center;
     justify-content: center;
     gap: 1rem;
+}
+
+.menu__bar__links > ul > li > a:hover {
+    transform: scale(1.1);
 }
 
 .menu__bar__logo > img{
