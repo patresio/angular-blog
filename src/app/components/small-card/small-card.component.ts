@@ -7,6 +7,8 @@ import { Component, Input } from '@angular/core';
 })
 export class SmallCardComponent {
   @Input()
+  Id:string=""
+  @Input()
   photoCover:string=""
   @Input()
   photoCoverAlt:string=""

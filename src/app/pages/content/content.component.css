@@ -22,9 +22,19 @@
 }
 
 .content__description > p {
-    margin-top: 1.5rem;
+    margin-top: 1.5rem; 
     color: rgb(137, 135, 135);
 }
+
+.content__title {
+    gap: 0.325rem;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .content__title > h1 {
     margin-bottom: 1rem;
 }
