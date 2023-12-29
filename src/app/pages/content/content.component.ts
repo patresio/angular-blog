@@ -8,11 +8,6 @@ import { dataFake } from '../../data/dataFake'
   styleUrl: './content.component.css'
 })
 export class ContentComponent implements OnInit {
-  // photoCover:string="https://files.realpython.com/media/Get-Started-With-Django_Watermarked.15a1e05597bc.jpg"
-  // photoCoverAlt:string="django"
-  // contentAuthor:string="Ricardo Pereira - 28 de dezembro de 2023"
-  // contentTitle:string="Django em alta performance"
-  // contentDescription:string="Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, labore."
   photoCover:string=""
   photoCoverAlt:string=""
   contentAuthor:string=""
